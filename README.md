@@ -18,10 +18,8 @@ In your freshly created project, open the file `src/app/app.component.html` and 
 1. `{{ 'hallo' }}`
 2. `{{ 3 }}`
 3. `{{ 17 + 4 }}`
-4. `{{ '<div>Does this work?</div>' }}`
-5. `{{ alert('boom') }}`
 
-Which values do you see in the preview pane? Are there any error messages?
+Which values do you see in the preview pane? 
 
 #### Interpolation II
 Now, open the file `src/app/app.component.ts` and introduce a new field called `value` within the `AppComponent` class:
