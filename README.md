@@ -34,7 +34,7 @@ export class AppComponent {
 Bind the value of this field to the template file, by adding the following interpolation to `src/app/app.component.html`.
 
 ```html
-{{ value }}
+<p>{{ value }}</p>
 ```
 
 Then, `Hello` should show up in the preview pane.
