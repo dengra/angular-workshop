@@ -82,11 +82,10 @@ export class AppComponent  {
 {{ 'hallo' }} <br/>
 {{ 3 }} <br/>
 {{ 17 + 4 }} <br/>
-{{ '<div>Does this work?</div>' }} <br/>
 
 <hr/>
 
-{{ value }}
+<p>{{ value }}</p>
 
 <hr/>
 
